@@ -1,0 +1,30 @@
+VARIABLES
+
+Imagina que tienes carros de juguete diferentes, y para pedirlos a mamá cuando quieras
+jugar con cada uno, les vas a poner un nombre que puedas recordar. Por ejemplo, cada 
+nombre puede empezar por la palabra carro y al final le añades el color, "carroRojo",
+ahí vas a estar representando el carro rojo de 3 ruedas con vidrios negros.
+
+STRINGS
+
+Cada vez que quieres ver un video de tus muñecos favoritos, escribes en el celular, 
+"pepa", por ejemplo. Yutub toma esto para encontrar todos los videos dónde pepa apa-
+rezca. "pepa" es un string.
+
+FUNCIONES
+
+Cuando quieres hacer figuras de plastilina, debes poner la plastilina en el molde de
+estrella, por ejemplo, luego cuando retiras el molde queda una estrella de plastilina.
+EL molde realiza una tarea (función), tomando la plastilina cómo su materia prima 
+(argumento). La estrella final es lo retornado (return).
+
+DECLARACIONES IF
+
+Cuan el día está soleado sales a jugar fútbol, si el día no está soleado, simplemente
+te quedas a jugar en casa. Ahí estás haciendo una actividad si (IF) algo sucede.
+
+VALORES BOOLEANOS
+
+Cuando dices que no te has comido el postre, cuando en realidad si fue así, lo que dices
+es falso (false). Si te pregunto si fuiste tu y respondes afirmativamente, es verdadero
+(true).
