@@ -1,0 +1,13 @@
+FOR
+
+Si quieres saber cuanto dinero tienes en total con las monedas de tu
+alcancia, debes empezar por la primera, y luego tomar 1 por 1 e ir 
+ir sumando su valor, hasta que hayas contado la ultima moneda.
+
+OPERADORES LOGICOS
+
+&& -> Si te portas bien en el colegio y en la casa, te llevo a comer helado.
+
+|| -> Si obtienes un 5 o un 4 en el cole, vamos a la playa de vaca.
+
+!  -> Si no esta lloviendo, salimos al parque.
