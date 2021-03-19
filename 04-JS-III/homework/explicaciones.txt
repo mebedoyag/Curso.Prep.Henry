@@ -1,0 +1,6 @@
+ARRAYS
+
+Quieres guardar tus marcadores, colores, micropuntas, plumones etc de modo que 
+los puedas encontrar fácilmente cuando los necesites, así que decides comprar una
+repisa con 9 espacios, y en cada uno de ellos pones tus elementos, por ejemplo
+colores en el primero, marcadores en el segundo etc. Tu repisa es una "matriz".
