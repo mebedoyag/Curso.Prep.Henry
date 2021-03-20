@@ -1,0 +1,30 @@
+OBJETOS
+
+Todos los computadores cumplen funciones similares, de modo que si quieres cambiar el que tienes 
+actualmente, debes mirar la marca, la velocidad, la resolucion de la camara entre otras caracte-
+risticas, que te permitan escoger el más apropiado para tus tareas.
+
+PROPIEDADES
+
+Cada una de las características de los computadores la llamaremos una propiedad, que son comúnes
+a todas las marcas, y los valores que tomarán podrán cambiar entre las mismas.
+
+MÉTODOS
+
+Una vez quieres encender uno de los computadores para probarlo, usas la función de encendido,
+para lo cual oprimes un botón y en respuesta el computador energiza sus componentes y en la
+pantalla te empezará mostrar imágenes. Esto es un método.
+
+BUCLE FOR ... IN
+
+Si has recorrido el almacén en busca de tu compu nuevo, vas a anotar las propiedades de cada
+uno de los equipos preseleccionados, y sus respectivos valores. Luego, cuando estes reunido 
+con tu papá, vas a recorrer cada una de las propiedades y leer el valor en voz alta para que 
+tú papá lo conozca. Estamos haciendo un bucle for ... in.
+
+NOTACIÓN DE PUNTO Y DE CORCHETES
+
+Si tu papá te pregunta por la marca de un computador determinad del listado, buscas el valor y 
+se lo dices. Si te pregunta por el almacenamiento, sabes que se refiere al almacenamiento de 
+memoria de disco duro, caso en el cual buscas el valor y se lo entregas. En el primer caso hemos
+usado aceso por notación de punto y en el segundo por corchetes.
