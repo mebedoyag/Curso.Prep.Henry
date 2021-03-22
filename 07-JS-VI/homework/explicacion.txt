@@ -1,0 +1,6 @@
+FUNCIONES CALLBACK
+
+Cuando vas a entrar a un centro comercial, encuentras nomalmente la puerta cerrada. Una vez te acercas a cierta
+distancia, notas como la puerta se abre casi que magicamente. Bueno, hay un control de apertura que al detectar 
+tu presencia o la de otra persona, envia una señal para que la puerta se abra. Asi pues, la funcion de abrir
+siempre esta disponible, pero solo es llamada ante la presencia de alguien. Eso es un "calback".
