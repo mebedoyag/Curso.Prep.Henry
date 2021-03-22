@@ -1,0 +1,12 @@
+PROTOTYPE
+
+Tu nombre comleto esta compuesto por nombres y apellidos. Cuando te piden tu nombre, tu lo das, te pertenece a ti.
+Cuando te preguntan tu apellido, tu das el mismo apellido de tu padre, es decir el que heredaste y que ahora tambien 
+puedes usar. Tu padre es el protype que te da acceso al apellido.
+
+CONSTRUCTORS
+
+Si quieres hacer wafles, vas a buscar una waflera, ya que esta te permite de forma regular hacer los wafles que
+tanto te gustan para tu desayuno. La waflera es un "constructors", que te permite hacer una y otra vez wafles.
+
+
