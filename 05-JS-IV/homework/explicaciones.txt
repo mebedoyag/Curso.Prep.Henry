@@ -24,7 +24,7 @@ tú papá lo conozca. Estamos haciendo un bucle for ... in.
 
 NOTACIÓN DE PUNTO Y DE CORCHETES
 
-Si tu papá te pregunta por la marca de un computador determinad del listado, buscas el valor y 
+Si tu papá te pregunta por la marca de un computador determinado del listado, buscas el valor y 
 se lo dices. Si te pregunta por el almacenamiento, sabes que se refiere al almacenamiento de 
 memoria de disco duro, caso en el cual buscas el valor y se lo entregas. En el primer caso hemos
-usado aceso por notación de punto y en el segundo por corchetes.
+buscado el valor de una propiedad literalmente y en el segundo por medio de un nombre representativo.

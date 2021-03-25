@@ -195,7 +195,7 @@ function empiezaConNueve(n) {
   //inicia con 9 y false en otro caso.
   //Escribe tu código aquí
 
-  numeroComoCadena = n.toString();
+  let numeroComoCadena = n.toString();
 
   return numeroComoCadena[0] === '9';
 }

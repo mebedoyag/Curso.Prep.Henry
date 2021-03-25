@@ -67,21 +67,16 @@ function asAmirror(str) {
   //Ej: Recibe ---> "The Henry Challenge is close!" || Devuelve ---> "ehT yrneH egnellahC si !esolc"
   //Escribe tu código aquí
 
-  let strToArr = str.split(' ');
-  let strResultado = '';
+  let strArray = str.split(' ');
 
-  for (let i = 0; i < strToArr.length; i++) {
-    
-    let palabraActual = strToArr[i];
-    let palabraTemp = '';
-
-    for (let j = (palabraActual.length - 1); j >= 0; j--) {
-      palabraTemp += palabraActual[j];
-    }
-    strResultado = strResultado + palabraTemp + ' ';
-  }
-
-  return strResultado.trim();
+  return strArray.map( function(ele) {
+                  let eleReversado = '';
+                  for (let i = ele.length - 1; i >= 0; i--) {
+                    eleReversado += ele[i];
+                  };
+                  return eleReversado;
+                  } )
+                  .join(' '); 
 } 
 
 

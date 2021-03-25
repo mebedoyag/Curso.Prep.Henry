@@ -7,9 +7,9 @@ function obtenerMayor(x, y) {
   // Tu código:
   
   if (x === y)
-	return x;
+	  return x;
   else if (x < y)
-	return y;
+	  return y;
   else return x;
 }
 
@@ -22,7 +22,7 @@ function mayoriaDeEdad(edad) {
   let ingreso = null;
 
   if (edad >= edadLimite)
-	ingreso = "Allowed";
+	  ingreso = "Allowed";
   else ingreso = "Not allowed";
 
   return ingreso;
@@ -37,9 +37,9 @@ function conection(status) {
   //Devolver el estado de conexión de usuario en cada uno de los casos.
 
   if (status === 1)
-	return "Online";
+	  return "Online";
   else if (status === 2)
-	return "Away";
+	  return "Away";
   else return "Offline";
 }
 
@@ -52,13 +52,13 @@ function saludo(idioma) {
   // Tu código:
 
   if (idioma === "aleman")
-	return "Guten Tag!";
+	  return "Guten Tag!";
   else if (idioma === "mandarin")
-	return "Ni Hao!";
+	  return "Ni Hao!";
   else if (idioma === "ingles")
-	return "Hello!";
+	  return "Hello!";
   else if (idioma === undefined)
-	return "Hola!";
+	  return "Hola!";
   else return "Hola!"; 
 }
 
